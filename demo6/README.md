@@ -5,7 +5,7 @@
     emitter.on(name,fn)
     emitter.emit(name,[arguments1,arg2,...])
 
-    [Reference]( https://nodejs.org/api/events.html)
+[Reference]( https://nodejs.org/api/events.html)
 
 ##util
     var util=require("util");
@@ -14,4 +14,4 @@
     但是child只能继承P.prototype的内容
     不能使用P的构造函数
 
-    [Reference]( https://nodejs.org/api/util.html)
+[Reference]( https://nodejs.org/api/util.html)
